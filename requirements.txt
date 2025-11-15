@@ -1,5 +1,7 @@
 Django==4.2
-Pillow==10.0.0
-python-magic==0.4.27
+python-magic
 gunicorn
 python-magic-bin
+whitenoise
+Pillow==10.3.0
+psycopg2-binary
