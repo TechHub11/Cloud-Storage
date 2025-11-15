@@ -2,3 +2,4 @@ Django==4.2
 Pillow==10.0.0
 python-magic==0.4.27
 gunicorn
+python-magic-bin
